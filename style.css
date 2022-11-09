@@ -57,14 +57,14 @@ hr {
 
 .top-cloud {
     position: absolute;
-    right: 25rem;
-    top: 9.375rem;
+    right: 300px;
+    top: 150px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 25rem;
-    bottom: 18.75rem;
+    left: 400px;
+    bottom: 300px;
 }
 
 .intro {
@@ -91,7 +91,6 @@ hr {
  .web-dev-img {
     float: left;
     padding: 30px;
-    width: 23%;
  }
  a {
     color:  #11999E;
@@ -135,9 +134,4 @@ hr {
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
-  }
-
-
-  .text {
-    padding: 1.2500rem;
   }
